@@ -1,0 +1,9 @@
+on github.com > + sign > create new repository 
+note URL of repo created
+
+on local > navigate to your folder
+$ git init
+$ add .
+$ git commit -m “first commit”
+$ git remote origin “https://github.com/LeslieRuckman/01_IceCream.git”
+$ git push origin master
